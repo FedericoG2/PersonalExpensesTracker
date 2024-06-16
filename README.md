@@ -19,7 +19,7 @@ Computes and displays the total amount spent so far. The total amount is also hi
 
 ```python
 # Ensure you have .NET SDK installed on your machine.
-# Clone this repository.
+# Clone this repository or download.
 git clone https://github.com/yourusername/personal-expense-tracker.git
 
 # Navigate to the project directory
@@ -31,3 +31,5 @@ dotnet run
 ```
 
 ## Demo
+
+https://www.loom.com/share/131dd2d82dc7496ba72920bf4a486494?sid=ec31a179-9f59-4d66-bc2d-94ea5a269c41
